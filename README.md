@@ -1,0 +1,2 @@
+# PYTHON_FUNDAMENTAL_B32
+Learning python
